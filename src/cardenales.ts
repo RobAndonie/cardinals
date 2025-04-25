@@ -75,4 +75,13 @@ export const cardenales: Cardenal[] = [
     notas:
       "El cardenal elector más joven, miembro de la Iglesia greco-católica ucraniana.",
   },
+  {
+    nombre: "Alejandro Beltrán",
+    pais: "México",
+    cargo: "Archi-cardenal de la Santísima Parroquia de San Juan Bosco",
+    edad: 28,
+    creadoPor: " Dios mismo",
+    fechaCreacion: "Siempre",
+    notas: "Sólo toma cheves sin gluten jaja",
+  },
 ];
